@@ -21,7 +21,7 @@ Follow these steps to get your development environment set up:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ai_blog_generator.git
+   git clone https://github.com/KasAgg21/ai-blogger.git
    cd ai_blog_generator
    ```
 
