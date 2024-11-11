@@ -1,6 +1,7 @@
 # AI Blog Generator
 
 The AI Blog Generator is a web-based application that utilizes a Language Learning Model (LLM) via the OpenRouter API to generate coherent, detailed, and contextually relevant blog posts based on user prompts. This application is built using Flask and is designed to run both locally and in production environments.
+Live Link - https://ai-blogger-ra7l.onrender.com/
 
 ## Features
 
