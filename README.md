@@ -6,7 +6,7 @@ The AI Blog Generator is a web-based application that utilizes a Language Learni
 ## Features
 
 - **Generate Blog Posts**: Input a prompt and receive a generated blog post of approximately 1000 words.
-- **Responsive Web Interface**: Built using Flask and Bootstrap for a responsive design that works on desktop and mobile browsers.
+- **Responsive Web Interface**: Built using FastAPI and Bootstrap for a responsive design that works on desktop and mobile browsers.
 - **Secure API Integration**: Uses environment variables to securely integrate with OpenRouter's LLM API.
 
 ## Prerequisites
